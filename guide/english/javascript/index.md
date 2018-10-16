@@ -7,6 +7,8 @@ JavaScript is the most widely used scripting language on Earth. And it has the l
 
 JavaScript is the core language of the web, and the only programming language that can run in all major web browsers.
 
+Unlike most other languages JavaScript is asynchronous, it means that only one task can run at a time.
+
 Notably, JavaScript has no relation to Java. [JavaScript: The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
 
 The official name of JavaScript is ECMAScript defined under Standard [ECMA-262](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
